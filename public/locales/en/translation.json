@@ -1,0 +1,245 @@
+{
+  "Header": {
+    "1": "Home",
+    "2": "About Us",
+    "3": "Companies",
+    "4": "Clients",
+    "5": "Dilers",
+    "6": "Products",
+    "7": "Contacts",
+    "8": "Knitted Fabric & Yarn",
+    "9": "Finished Products",
+    "10": "Watch the video",
+    "11": "News",
+    "12": "F.A.Q.",
+    "13": "Languages",
+    "14": "Departments",
+    "16": "Sewing",
+    "17": "Knitting",
+    "18": "Painting and printing",
+    "19": "Gallery",
+    "20": "Staff",
+    "21": "More"
+
+  },
+  "Footer": {
+    "1": "Quick connection",
+    "2": "Follow Us",
+    "3": "Done by RUSTAMOVIC",
+    "4": "Copyright"
+  },
+  "Home": {
+    "1": "We are Konteks team",
+    "2": "«Konteks-Tashkent» LLC was established in Uzbekistan in 2008 and has deep roots in World`s design tradition. Company produces quality contemporary textiles and textile related products for consumers across the World.",
+    "3": "Our Products",
+    "4": "At «Konteks-Tashkent» LLC, we consistently push the aesthetic, technological and functional properties of textiles. Our versatile collection reflects our commitment to natural colour, simplicity and innovation.",
+    "5": "Join us!",
+    "6": "We are always looking for talented people who are motivated by responsibility, have the desire to work as individuals and as part of a team and who are passionate.",
+    "8": "Latest news"
+  },
+  "About": {
+    "1": "About Us",
+    "2": "«Konteks-Tashkent» LLC was established in Uzbekistan in 2008 and has deep roots in World`s design tradition. Company employs more than 2,500 people",
+    "3": "An innovation company, offering quality fashion and solution partnerships for companies around the world.",
+    "4": "Our Company",
+    "6": "Konteks-Tashkent LLC has internationally recognized certificates. This, in turn, proves that our products find their place in the world market and are competitive.",
+    "Company": {
+      "1": "We are Konteks team",
+      "2": "«Konteks-Tashkent» LLC was established in Uzbekistan in 2008 and has deep roots in World`s design tradition. «Konteks-Tashkent» LLC produces quality contemporary textiles and textile related products for consumers across the world.",
+      "3": "We keep improving the aesthetic, technological and functional properties of textile products.",
+      "4": "The products of Konteks-Tashkent LLC have been being loved and bought by the people of the world for 12 years",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": "Mission",
+      "9": "The purpose of «Konteks-Tashkent» LLC is to deliver qualitative products than you want. Experienced professionals and the latest technology will always play an important role in maintaining growth in the manufacturing / service sector.",
+      "10": "Working with experienced professionals is the key to our success. That’s why we promote a high level of social responsibility and give our employees the opportunity to succeed.",
+      "11": "",
+      "12": "Our products help to develop our brand and our activities on an international scale."
+    },
+    "Environ": {
+      "1": "Showroom",
+      "3": "Our Policy",
+      "4": "Certifications"
+    }
+  },
+  "Contacts": {
+    "1": "Contact Information",
+    "3": "Opening hours",
+    "4": "Monday – Friday",
+    "5": "Saturday",
+    "6": "Managers",
+    "7": "«Konteks-Tashkent» LLC"
+  },
+  "Type": {
+    "1": "For Men",
+    "2": "For Women",
+    "3": "For Children"
+  },
+  "Knitted": {
+    "1": "Kashkorse material can be produced from 100% cotton or have in the composition of small additives of synthetic and artificial fibers. The structure of the material, which is a large rubber, makes it incredibly elastic, and the natural composition gives clothes the ability to breathe and absorb moisture",
+    "2": "- Ribana of 100% cotton smoothly dyed - Riban with 5% lycra content smoothly dyed - Riban with fleece with 5% lycra content smoothly dyed.",
+    "3": "Garters for the manufacture of modern clothes for any season are actively used garters - wide elastic bands, collars and cuffs. They are actively used when sewing jackets, outerwear, sports pants, polo shirts and other knitwear.",
+    "4": "Our assortment includes: - 100% cotton colored dyed fabric - Footer from 100% cotton stuffed - footer with 8% lycra content, smoothly dyed - footer with 8% Lycra content printed",
+    "5": "Our assortment includes: - 100% cotton colored dyed fabric - Footer from 100% cotton stuffed",
+    "6": "Basically, this material is used for making different clothes, it is sewn from: dresses, suits, blouses and coats, materials are widely used in the production of children's clothing, often they make gowns and other clothes for the house.",
+    "7": "Interlok is a remarkable knitted fabric made of 100% cotton. A characteristic feature of any knitwear is the interlacing with loops, due to which elasticity and softness are created. From other types of knitwear interlock is characterized by a special complicated kind of weaving of loops, as a result of which a strong and reliable spatial structure of the fabric is formed. Our assortment includes: - 100% cotton interlining, smoothly dyed - interlock of 100% cotton stuffed",
+    "8": "Our assortment includes: - smooth surface of 100% cotton smoothly dyed - Culinary smooth surface of 100% cotton stuffed - Culinary smoothness with 5% Lycra content smoothly dyed - Culinary smoothness with 5% content of Lycra ramming - Culinary smoothness with 8% lycra content smoothly dyed - Culinary smoothness with 8% Lycra contents printed",
+    "9": "Selanik - a dense knitted fabric of cotton and synthetic fibers, the front side of which - a large eraser, purl - with an eye.",
+    "10": "Dual thread",
+    "11": "Wye thread",
+    "12": "Ribana",
+    "13": "Kashkorse",
+    "14": "Velur",
+    "15": "Interlok",
+    "16": "Suprem",
+    "17": "Selanik",
+    "18": "Garters"
+  },
+  "FAQ": {
+    "1": "Frequently Asked Questions"
+  },
+  "Staff": {
+    "1": "Personnel",
+    "2": "General Director",
+    "3": "Director",
+    "4": "Deputy Director (Foreign Economic Relations)",
+    "5": "Prime Manager",
+    "6": "Manager",
+    "7": "Something",
+    "8":"Founder & CEO",
+  "Names": {
+    "1": "Jakhongir Sotivoldiev",
+    "2": "Dilshod Rakhimov",
+    "3": "Sherzodbek Karimov",
+    "4": "Takhirjon Yakubov",
+    "5": "Zokirjon Haydarov",
+    "6": "Mehmet Davut Surucu"
+    }
+  },
+  "Painting": {
+      "1": "Director (Production)",
+    "2": "Head of Department (Yarn dye)",
+    "3": "Department Leader (Printing expert)",
+    "4": "Modeler",
+    "5": "Modeler-Designer",
+    "6": "Manager",
+    "Names": {
+      "1": "Baris Surucu",
+      "2": "Omadbek Khanbutaev",
+      "3": "Serhat Surucu",
+      "4": "Aziz Soliev",
+      "5": "Zohidbek Rahmatullayev",
+      "6": "Farkhod Jumaboyev"
+      }
+    },
+  "Sewing":{
+    "1": "Head of Department",
+    "2": "Modeler-constructor",
+    "3": "Finished goods warehouse manager",
+    "Names": {
+      "1": "Asiye Parokos",
+      "2": "Aziz Soliyev",
+      "3": "Bakhodir Bekmirzayev"
+      }
+  },
+  "Knitting":{
+    "1": "Head of Department",
+    "2": "Expert of Department",
+    "3": "Expert of Department",
+    "Names": {
+      "1": "Soliha Demirbash",
+      "2": "Tekalmaz Mustafa",
+      "3": "Ilyosbek Kadyrov"
+      }
+  },
+  "Partners": {
+    "1": "Our clients",
+    "2": "Konteks-Tashkent LLC is the largest exporter of textile products in the CIS (Commonwealth of Independent States). In the list of importers - 45 countries: Germany, Poland, Russia, Turkey, Switzerland and etc.",
+    "3": "Our clients love us",
+    "4": "Interested?",
+    "5": "Contact us and we will tell you in detail about the unique conditions of cooperation with our company",
+    "6": "Contact us",
+    "7": "THANK YOUR COMPANY",
+    "8": "ALWAYS SOFT AND NEW",
+    "9": "COMFORTABLE AND CLEAN"
+  },
+  "Dilers": {
+    "1": "Our dilers",
+    "2": "Russia",
+    "3": "Kravtextile-Ural LLC",
+    "4": "Yekaterinburg, st. Chernyakhovsky, 86/1, office 235",
+    "5": "UzCotton LLC",
+    "6": "Moscow, Kantemirovskaya street, building 61, 3rd floor, room 1",
+    "7": "TC Vivezza LLC",
+    "8": "Moscow, 1st Kotlyakovsky lane, 4A, office 307.",
+    "12": "WE OFFER",
+    "13": "Wide assortment and European quality",
+    "14": "As a manufacturer, we are very picky about the quality of the products offered: all products are made from high-quality and environmentally friendly materials, with modern equipment by highly qualified specialists.",
+    "15": "Customer Support",
+    "16": "We work with each client individually and take into account all your wishes. You can always count on the support and advice of specialists of any level - you are helped not only by your personal manager, but also by the whole company.",
+    "17": "Effective logistics",
+    "18": "Optimization of transportation costs in 1,5 times due to high-quality warehouse packaging and favorable tariffs from leading transport companies of Uzbekistan.",
+    "19": "Constant availability of assortment",
+    "20": "We are a manufacturer, therefore we constantly support the availability of assortment in warehouses, and also constantly update and supplement our collections, following the modern European trends in textile design.",
+    "21": "`We offer dealership` - often manufacturers start their dealer offers with these words, wishing to find new business partners and expand their influence in the regions. For an entrepreneur (both beginner and experienced) to become a dealer of the plant is a very attractive prospect. First, there will be no middlemen between the dealer and the manufacturer, and secondly, the manufacturer often offers the dealer favorable terms of cooperation: good wholesale prices and other benefits, including exclusive distribution and client diversion. We export to CIS and European countries",
+    "22": "WE PROVIDE",
+    "23": "The demand for Textile products is growing and the company «Konteks-Tashkent» LLC continues to actively develop the regional dealer network throughout Uzbekistan, as well as in the CIS countries.",
+    "24": "A well-balanced delivery system",
+    "25": "The technics and scripts of sales of our products",
+    "26": "Fixed dealer discount for the purchase of our products",
+    "27": "Samples of finished products for demonstration to end customers",
+    "28": "Buyers' direct contact information in the regions"
+  },
+  "AlertOpen": {
+    "1": "TOUCHLESS DELIVERY",
+    "2": "At «Konteks-Tashkent» LLC, we understand that moving forward means staying safe. That’s why in addition to our 100% online shopping experience, our touchless delivery and pickup process allows you to buy your ordered products in a much safer way.",
+    "3": "If you need to keep moving, we’re here to help.",
+    "4": "COVID-19 Information",
+    "5": "We care your safety and health.",
+    "6": "Find out more"
+  },
+  "Adresses": {
+    "1": "1, Chinobod street, 171000, Altinkul district, Andijan region, Republic of Uzbekistan",
+    "2": "For finished products",
+    "3": "For textile fabrics"
+  },
+  "Policy": {
+    "1": "QUALITY POLICY",
+    "2": "The management of «Konteks-Tashkent» LLC pays special attention to the quality of the products. Threefold quality control is constantly carried out: incoming control of raw materials, control during production and control of finished products. Each batch necessarily has a quality certificate, and various properties of the fabric are analyzed in the laboratory available at the enterprise. To control the production, a Quality Department was established at KONTEKS-TASHKENT LLC.",
+    "3": "The main goal of the Quality Department is to create an effective quality management system for finished products in accordance with established standards or customer specifications.",
+    "4": "The main tasks of the Quality Department:",
+    "5": "Prevention of the release of low-quality products;",
+    "6": "Increasing the responsibility of all links of the production chain responsible for the quality of products;",
+    "7": "Improving production discipline at the enterprise.",
+    "8": "In addition, the following tasks for the Quality Directorate were approved:",
+    "9": "Achievement of the share of 1st grade products not lower than 98%;",
+    "10": "Reducing the share of substandard products to 0.5% and below;",
+    "12":"Compliance with the rules of the QMS policy.",
+    "13":"The further plans of the enterprise are to expand the production capacities of the enterprise, which will be constantly accompanied by effective quality control of the manufactured products."
+  },
+  "GallName": {
+    "1": "Fabric knitting",
+    "2": "Rubber band & Socks knitting",
+    "3": "Accaessories",
+    "4": "Knitted fabric",
+    "5": "Laboratory",
+    "6": "Fabric dyeing",
+    "7": "Yarn dyeing",
+    "8": "Drying stage",
+    "9": "Printing",
+    "10": "Cutting",
+    "11": "Embroidery",
+    "12": "Pattern Printing",
+    "13": "Sewing",
+    "14": "Packaging",
+    "15": "Quality inspection"
+
+  },
+  "GallNames": {
+    "1": "Knitting department",
+    "2": "Department of Painting & Dyeing",
+    "3": "Sewing department",
+    "4": "The work process in this department consists of the following steps"
+  }
+}

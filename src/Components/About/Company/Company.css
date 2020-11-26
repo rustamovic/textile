@@ -1,0 +1,12 @@
+#MDBCC {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /*cover, contain, scale-down(contain), none, fill, *contain*/
+}
+#me {
+  color: #414042;
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto;
+  padding-top: 50px;
+}

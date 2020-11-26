@@ -1,0 +1,245 @@
+{
+  "Header": {
+    "1": "Asosiy",
+    "2": "Biz Haqimizda",
+    "3": "Kompaniyalar",
+    "4": "Mijozlar",
+    "5": "Dilerlar",
+    "6": "Mahsulotlar",
+    "7": "Aloqa",
+    "8": "Trikotaj mato va ip",
+    "9": "Tayyor mahsulotlar",
+    "10": "Videoni tomosha qiling",
+    "11": "Yangiliklar",
+    "12": "T.S.S",
+    "13": "Tillar",
+    "14": "Bo`limlar",
+    "16": "Tikuv",
+    "17": "To`quv",
+    "18": "Bo`yoq va pechat",
+    "19": "Galereya",
+    "20": "Xodimlar",
+    "21": "Ko`proq"
+  },
+  "Footer": {
+    "1": "Tezkor ulanish",
+    "2": "Bizni kuzatib boring",
+    "3": "RUSTAMOVIC tomonidan bajarilgan",
+    "4": "Mualliflik huquqi"
+  },
+  "Home": {
+    "1": "Biz Konteks jamoasimiz",
+    "2": "«Konteks-Tashkent» MCHJ 2008-yilda O'zbekistonda tashkil etilgan va Jahon dizayn an'analarida chuqur ildiz otgan. Konteks-Tashkent MCHJ Jahon bo'ylab iste'molchilar uchun sifatli va zamonaviy to'qimachilik mahsulotlarini ishlab chiqaradi.",
+    "3": "Bizning mahsulotlar",
+    "4": "«Konteks-Tashkent» MCHJ da biz to'qimachilikning estetik, texnologik va funktsional xususiyatlarini doimiy ravishda oshirib boramiz. Bizning ko'p qirrali tabiiy kollektsiyamiz rang, soddalik va innovatsiyalarga sodiqligimizni aks ettiradi",
+    "5": "Bizga qo'shiling!",
+    "6": "Biz har doim mas'uliyat turtki beradigan, shaxs sifatida va jamoaning bir qismi sifatida ishlash istagi bo'lgan ixlosmand iste'dodli odamlarni qidiramiz",
+    "7": "Joylashuvni tanlang",
+    "8": "So'nggi yangiliklar"
+  },
+  "About": {
+    "1": "Biz haqimizda",
+    "2": "«Konteks-Tashkent» MCHJ 2008-yilda O'zbekiston tashkil etilgan va Jahon dizayn an'analarida chuqur ildiz otgan. Komapniyada 2500 dan ko`proq ishchi faoliyat yuritadi",
+    "3": "Biz dunyo bo'ylab kompaniyalar uchun sifatli moda va shu sohaning muammo yechimlarini taklif qiladigan innovatsion kompaniyamiz.",
+    "4": "Bizning kompaniya",
+    "6": "«Konteks-Tashkent» MCHJ xalqaro miqyosda tan olingan sertifikatlarga ega. Bu o`z navbatida ishlab chiqarilayotgan mahsulotlarimizni Jahon bozorida o`z o`rnini topishda va raqobatbardosh ekanligini isbotlamoqda.",
+    "Company": {
+      "1": "Biz Konteks jamoasimiz",
+      "2": "«Konteks-Tashkent» MCHJ O'zbekistonda 2008-yilda tashkil etilgan va Jahonning dizayn an'analarida chuqur ildiz otgan. «Konteks-Tashkent» MCHJ butun Jahon bo'ylab iste'molchilar uchun sifatli va zamonaviy to'qimachilik mahsulotlarini ishlab chiqaradi.",
+      "3": "To'qimachilik mahsulotlarining estetik, texnologik va funktsional xususiyatlarini doimiy ravishda oshirib boramiz.",
+      "4": "«Konteks-Tashkent» MCHJ mahsulotlari 12 yildan buyon dunyo aholisi tomonidan sevilib harid qilinmoqda",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": "Missiya",
+      "9": "«Konteks-Tashkent» MCHJ ning maqsadi - siz istaganingizdanda sifatli mahsulot yetkazib berish. Ishlab chiqarish/Xizmat sohasida o'sishni davom ettirish uchun tajribali mutaxasislar va so`nggi texnologiyalar doimo muhim rol o'ynaydi.",
+      "10": "Tajribali mutaxasislar blan ishlash - muvaffaqiyatimizning kalitidir. Shuning uchun biz yuqori darajadagi ijtimoiy mas'uliyatni ilgari suramiz va xodimlarimizga muvaffaqiyat qozonish uchun imkoniyat beramiz.",
+      "11": "",
+      "12": "Bizning mahsulotlarimiz - bizning brendimizni va xalqaro miqyosdagi faoliyatimizni rivojlantirishga yordam beradi."
+    },
+    "Environ": {
+      "1": "Korgazma zali (Shourum)",
+      "3": "Bizning siyosatimiz",
+      "4": "Sertifikatlar"
+    }
+  },
+  "Contacts": {
+    "1": "Bog'lanish uchun ma'lumot",
+    "3": "Ish vaqti",
+    "4": "Dushanba - Juma",
+    "5": "Shanba",
+    "6": "Menejerlar",
+    "7": "«Konteks-Tashkent» MCHJ"
+  },
+  "Type": {
+    "1": "Erkaklar",
+    "2": "Ayollar",
+    "3": "Bolalar"
+  },
+  "Knitted": {
+    "1": "Kashkorse materialini 100% paxtadan ishlab chiqarish mumkin yoki sintetik va sun'iy tolalarning kichik qo'shimchalari tarkibida bo'lishi mumkin. Katta kauchuk bo'lgan materialning tuzilishi uni nihoyatda elastik qiladi va tabiiy tarkibi kiyimga nafas olish va namlikni yutish qobiliyatini beradi.",
+    "2": "- 100% paxta silliq bo'yalgan Ribana - 5% likra tarkibidagi silliq bo'yalgan Riban - 5% likra tarkibidagi silliq bo'yalgan junli Riban",
+    "3": "Har qanday mavsum uchun zamonaviy kiyim-kechak ishlab chiqarish uchun garterlar - keng elastik bantlar, yoqalar va manjetlar faol foydalaniladi. Ular ko'ylagi, tashqi kiyim, sport shimlari, polo ko'ylaklari va boshqa trikotaj kiyimlarni tikishda faol foydalanilmoqda.",
+    "4": "Bizning assortimentimiz quyidagilarni o'z ichiga oladi: - 100% paxta bo'yalgan bo'yalgan mato - 100% paxtadan to'ldirilgan altbilgi - 8% likra tarkibidagi oyoq, silliq bo'yalgan - 8% likra tarkibidagi bosma oyoq",
+    "5": "Bizning assortimentimiz quyidagilarni o'z ichiga oladi: - 100% paxta rangli bo'yalgan mato - 100% paxtadan to'ldirilgan paxta",
+    "6": "Asosan, ushbu material turli xil kiyimlarni tayyorlash uchun ishlatiladi, u quyidagilardan tikiladi: liboslar, kostyumlar, bluzkalar va paltolar, materiallar bolalar kiyimlarini ishlab chiqarishda keng qo'llaniladi, ko'pincha ular uy uchun xalat va boshqa kiyimlarni tikadilar.",
+    "7": "Interlok - bu 100% paxtadan tayyorlangan ajoyib trikotaj mato. Har qanday trikotajning o'ziga xos xususiyati - bu egiluvchanlik va yumshoqlik yaratilganligi sababli, ilmoqlar bilan o'zaro bog'lanishdir. Trikotajning boshqa turlaridan bir-biriga bog'lab qo'yish maxsus murakkab to'qish turi bilan ajralib turadi, buning natijasida matoning kuchli va ishonchli fazoviy tuzilishi shakllanadi. Bizning assortimentimiz quyidagilarni o'z ichiga oladi: - 100% paxta qoplama, tekis bo'yalgan - 100% paxta to'ldirilgan interlok",
+    "8": "Bizning assortimentimiz quyidagilarni o'z ichiga oladi: - 100% paxta silliq bo'yalgan silliq yuzasi - 100% paxta to'ldirilgan pazandalik silliq yuzasi - 5% likra tarkibidagi pazandalik silliqligi silliq bo'yalgan - 5% likra ramming tarkibidagi pazandalik silliqligi - 8% likra tarkibidagi kulinariya silliqligi. silliq bo'yalgan - 8% likra tarkibi bosilgan oshpazlik silliqligi",
+    "9": "Selanik - paxta va sintetik tolalardan zich trikotaj mato, uning old tomoni - katta silgi, purl - ko'z bilan.",
+    "10": "Ikki iplik",
+    "11": "Uch iplik",
+    "12": "Ribana",
+    "13": "Kashkorse",
+    "14": "Velur",
+    "15": "Interlok",
+    "16": "Suprem",
+    "17": "Selanik",
+    "18": "Garters"
+  },
+  "FAQ": {
+    "1": "Tez-tez So'raladigan Savollar"
+  },
+  "Staff": {
+    "1": "Hodimlar",
+    "2": "Bosh ijrochi direktor",
+    "3": "Direktor",
+    "4": "Direktor o'rinbosari (Tashqi Iqtisodiy Aloqalar)",
+    "5": "Bosh menejer",
+    "6": "Menejer",
+    "7": "Something",
+    "8":"Ta'sischi",
+    "Names": {
+      "1": "Jaxongir Sotivoldiev",
+      "2": "Dilshod Rahimov",
+      "3": "Sherzodbek Karimov",
+      "4": "Toxirjon Yoqubov",
+      "5": "Zokirjon Haydarov",
+      "6": "Mehmet Davut Suruju",
+      "7": "Something"
+      }
+  },
+  "Painting": {
+    "1": "Direktor (Ishlab chiqarish)",
+  "2": "Bo'lim boshlig'i (ip bo'yoq)",
+  "3": "Bo'lim boshlig'i (gul bosish mutaxasisi)",
+  "4": "Modeleyer",
+  "5": "Modelyer-Dizayner",
+  "6": "Menejer",
+  "Names": {
+    "1": "Baris Suruju",
+    "2": "Omadbek Khanbutaev",
+    "3": "Serhat Suruju",
+    "4": "Aziz Soliev",
+    "5": "Zohidbek Rahmatullayev",
+    "6": "Farxod Jumaboyev"
+    }
+  },
+  "Sewing":{
+    "1": "Bo'lim boshlig'i",
+    "2": "Modeler-konstruktor",
+    "3": "Tayyor mahsulotlar ombori mudiri",
+    "Names": {
+      "1": "Asiye Parokos",
+      "2": "Aziz Soliyev",
+      "3": "Baxodir Bekmirzayev"
+      }
+  },
+  "Knitting":{
+    "1": "Bo'lim boshlig'i",
+    "2": "Bo`lim mutaxasisi",
+    "3": "Bo`lim mutaxasisi",
+    "Names": {
+      "1": "Soliha Demirbash",
+      "2": "Tekalmaz Mustafa",
+      "3": "Ilyosbek Qodirov"
+      }
+  },
+  "Partners": {
+    "1": "Bizning Mijozlar",
+    "2": "«Konteks-Tashkent» MCHJ - MDH mamlakatlari orasida tekstil mahsulotlarini eltib beruvchi eng yirik eksportchi kompaniya. Biz dunyoning 45 mamlakatiga eksportlarni amalga oshiramiz. Bular orasiga Germaniya, Polsha, Rossiya, Turkiya, Shveytsariya davlatlari kiradi.",
+    "3": "Mijozlarmiz bizni maqul ko`rishadi",
+    "4": "Qiziqdingizmi?",
+    "5": "Biz bilan bog'laning, sizga kompaniyamiz bilan hamkorlik qilishn shartlari bo`yicha batafsil ma`lumot beramiz",
+    "6": "Biz bilan bo`glaning",
+    "7": "KOMPANIYANGIZGA RAHMAT",
+    "8": "HAMMISHA YUMSHOQ VA YANGI",
+    "9": "QULAY VA TOZA"
+  },
+  "Dilers": {
+    "1": "Bizning Dilerlar",
+    "2": "Rossiya",
+    "3": "Kravtekstil-Ural MCHJ",
+    "4": "Yekaterinburg, Chernyaxovskiy ko'chasi, 86/1, 235-ofis",
+    "5": "UzKotton MChJ",
+    "6": "Moskva, Kantemirovskaya ko'chasi, 61-bino, 3-qavat, 1-xona",
+    "7": "TK Vivezza MChJ",
+    "8": "Moskva, 1-Kotlyakovskiy ko'chasi, 4A, 307-ofis.",
+    "12": "Biz taklif etamiz",
+    "13": "Keng assortiment va Evropa sifati",
+    "14": "Ishlab chiqaruvchi sifatida biz taklif etilayotgan mahsulotlar sifatini juda sinchkovlik bilan bilamiz: barcha mahsulotlar yuqori sifatli va ekologik toza materiallardan tayyorlangan bo'lib, yuqori malakali mutaxassislar tomonidan zamonaviy uskunalar bilan ta'minlangan.",
+    "15": "Mijozlarni qo'llab-quvvatlash",
+    "16": "Biz har bir mijoz bilan alohida ishlaymiz va barcha istaklaringizni inobatga olamiz. Siz har doim har qanday darajadagi mutaxassislarning ko'magi va maslahatiga umid bog'lashingiz mumkin - sizga nafaqat shaxsiy menejer, balki butun kompaniya yordam beradi.",
+    "17": "Samarali logistika",
+    "18": "Yuqori sifatli ombor qadoqlari va O'zbekistonning etakchi transport kompaniyalari tomonidan qulay tariflar tufayli transport xarajatlarini 1,5 baravar optimallashtirish.",
+    "19": "Assortimentning doimiy mavjudligi",
+    "20": "Biz ishlab chiqaruvchimiz, shu sababli biz omborlarda assortiment mavjudligini doimiy ravishda qo'llab-quvvatlaymiz, shuningdek to'qimachilik dizaynidagi zamonaviy Evropa tendentsiyalariga rioya qilgan holda kollektsiyalarimizni doimo yangilab va to'ldiramiz.",
+    "21": "Biz dilerlik xizmatini taklif qilamiz - ko'pincha ishlab chiqaruvchilar o'zlarining dilerlik takliflarini ushbu so'zlar bilan boshlashadi, yangi ishbilarmon sheriklar topishni va mintaqalarda o'z ta'sirini kengaytirishni xohlashadi. Tadbirkor uchun (ham boshlang'ich, ham tajribali) zavodning dileriga aylanish juda yoqimli istiqboldir. Birinchidan, diler va ishlab chiqaruvchi o'rtasida vositachilar bo'lmaydi, ikkinchidan, ishlab chiqaruvchi tez-tez dilerga hamkorlikning qulay shartlarini taklif qiladi: yaxshi ulgurji narxlar va boshqa imtiyozlar, shu jumladan eksklyuziv tarqatish va mijozlarni yo'naltirish. Biz MDH va Evropa mamlakatlariga eksport qilamiz",
+    "22": "Biz taqdim etamiz",
+    "23": "To'qimachilik mahsulotlariga talab tobora ortib bormoqda va «Konteks-Tashkent» MChJ kompaniyasi butun MDH davlatlarida bo'lgani kabi butun O'zbekiston bo'ylab mintaqaviy dilerlik tarmog'ini rivojlantirishni davom ettirmoqda.",
+    "24": "Balanslangan etkazib berish tizimi",
+    "25": "Mahsulotlarimizni sotish texnikasi va skriptlari",
+    "26": "Mahsulotlarimizni sotib olish uchun dilerlarga belgilangan chegirma",
+    "27": "Oxirgi mijozlarga namoyish qilish uchun tayyor mahsulotlar namunalari",
+    "28": "Mintaqalardagi xaridorlarning bevosita aloqa ma'lumotlari"
+  },
+  "AlertOpen": {
+    "1": "TEGINISHSIZ YETKAZIB BERISH",
+    "2": "«Konteks-Tashkent» MCHJda biz oldinga siljish xavfsizlikni saqlashni anglatishini tushunamiz. Shuning uchun bizning 100% onlayn xarid qilish tajribamizdan tashqari, bizning teginishsiz etkazib berish va qabul qilish jarayoni sizga buyurtma qilingan mahsulotlarni ancha xavfsizroq sotib olishga imkon beradi.",
+    "3": "Agar sizga bu borada yordam kerak bo'lsa, biz tayyormiz.",
+    "4": "COVID-19 haqida ma'lumot",
+    "5": "Biz sizning xavfsizligingiz va sog'lig'ingizga qayg`uramiz.",
+    "6": "Batafsil ma'lumot"
+  },
+  "Adresses": {
+    "1": "O`zbekiston Respublikasi, 171000, Andijon Viloyati, Oltinko`l tumani, Chinobod ko`chasi, 1-uy",
+    "2": "Tayyor mahsulotlar uchun",
+    "3": "To'qimachilik matolari uchun"
+  },
+  "Policy": {
+    "1": "SIFAT SIYOSATI",
+    "2": "«Konteks-Tashkent»T MChJ rahbariyati mahsulot sifatiga alohida e'tibor beradi. Uch marta sifat nazorati doimiy ravishda amalga oshiriladi: xom ashyoning kiruvchi nazorati, ishlab chiqarish jarayonida nazorat va tayyor mahsulotni nazorat qilish. Har bir partiya albatta sifat sertifikatiga ega va matoning turli xil xususiyatlari korxonada mavjud bo'lgan laboratoriyada tahlil qilinadi. Ishlab chiqarishni nazorat qilish uchun KONTEKS-TOSHKENT MChJda Sifat bo'limi tashkil etildi.",
+    "3": "Sifat bo'limining asosiy maqsadi - belgilangan standartlarga yoki buyurtmachilarning talablariga muvofiq tayyor mahsulotlar uchun samarali sifat menejmenti tizimini ishlab chiqish.",
+    "4": "Sifat bo'limining asosiy vazifalari:",
+    "5": "Sifatsiz mahsulotlar chiqarilishining oldini olish;",
+    "6": "Mahsulot sifati uchun mas'ul bo'lgan ishlab chiqarish zanjirining barcha bo'g'inlarining javobgarligini oshirish;",
+    "7": "Korxonada ishlab chiqarish intizomini takomillashtirish.",
+    "8": "Bundan tashqari, Sifat direktsiyasining quyidagi vazifalari tasdiqlandi:",
+    "9": "1-darajali mahsulotlarning ulushi 98% dan kam bo'lmagan darajaga erishish;",
+    "10": "Sifatsiz mahsulotlar ulushini 0,5% va undan past darajaga kamaytirish;",
+    "12":"Sifat siyosatiga rioya qilish",
+    "13":"Korxonaning kelgusidagi rejalari korxonaning ishlab chiqarish quvvatlarini kengaytirishdan iborat bo'lib, ular ishlab chiqarilayotgan mahsulotlar sifati ustidan doimiy nazorat olib boriladi."
+  },
+  "GallName": {
+    "1": "Mato to'qish",
+    "2": "Rezinka va paypoq to'qish",
+    "3": "Aksessuarlar",
+    "4": "To`qilgan mato",
+    "5": "Laboratoriya",
+    "6": "Mato bo`yoq",
+    "7": "Ip bo`yoq",
+    "8": "Qurutuv",
+    "9": "Gul bosish",
+    "10": "Bichuv",
+    "11": "Kashtachilik",
+    "12": "Gul bosish",
+    "13": "Tikuv",
+    "14": "Upakovka",
+    "15": "Sifat Nazorati"
+  },
+  "GallNames": {
+    "1": "To`quv bo'limi",
+    "2": "Bo`yoq bo'limi",
+    "3": "Tikuv bo'limi",
+    "4": "Ushbu bo'limdagi ish jarayoni quyidagi bosqichlardan iborat"
+  }
+}

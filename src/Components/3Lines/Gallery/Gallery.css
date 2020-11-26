@@ -1,0 +1,247 @@
+/*
+ * Variables
+ * ---------
+ */
+/* Functions */
+/* 
+ * Font / breakpoint sizes
+ * @param [number] $px
+ * @return [number]
+ */
+/*
+ * Strip unit from number
+ * @param [number] $number
+ * @return [number]
+ */
+/* Mixins */
+/* 
+ * Min media query
+ * @param [string/number] $min
+ */
+/* 
+ * Max media query
+ * ---------------
+ *
+ * @param [string/number] $max
+ */
+/*
+ * Fluid sizes ( font-size, padding, margins... )
+ * @param [number] $minVW
+ * @param [number] $maxVW
+ * @param [number] $minSize
+ * @param [number] $maxSize
+ */
+/* 
+ * Min/max media query
+ * -------------------
+ *
+ * @param [string/number] $min
+ * @param [string/number] $max
+ */
+/* Base */
+#tele,
+#tele:before,
+#tele:after {
+  box-sizing: border-box;
+}
+
+#teleg {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* font-family: "Kumbh Sans", sans-serif; */
+  font-weight: 400;
+}
+/* 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+} */
+
+h1 {
+  color: #414042;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-gap: 5%;
+  -webkit-box-align: center;
+  align-items: center;
+  margin: 0;
+  font-size: 24px;
+}
+@media only screen and (min-width: 12.5em) {
+  h1 {
+    font-size: calc(24px + 14 * ((100vw - 200px) / 1300));
+  }
+}
+@media only screen and (min-width: 93.75em) {
+  h1 {
+    font-size: 38px;
+  }
+}
+h1 *:first-child {
+  letter-spacing: -5px;
+  font-size: 70px;
+}
+@media only screen and (min-width: 12.5em) {
+  h1 *:first-child {
+    font-size: calc(70px + 50 * ((100vw - 200px) / 1300));
+  }
+}
+@media only screen and (min-width: 93.75em) {
+  h1 *:first-child {
+    font-size: 120px;
+  }
+}
+@media only screen and (max-width: 62.5em) {
+  h1 {
+    grid-template-columns: 100%;
+    grid-gap: 0px;
+  }
+}
+
+/*
+ * Layout
+ * ------
+ */
+.l-container {
+  max-width: 1240px;
+  margin: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.l-center {
+  min-height: 100vh;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+}
+.l-center > * {
+  width: 100%;
+}
+
+.l-grid {
+  display: grid;
+  grid-template-columns: minmax(400px, 40%) 1fr;
+  grid-gap: 5%;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+}
+@media only screen and (max-width: 43.75em) {
+  .l-grid {
+    grid-template-columns: 100%;
+    grid-gap: 40px;
+  }
+}
+
+@media only screen and (max-width: 43.75em) {
+  .l-max {
+    max-width: 500px;
+    margin: auto;
+  }
+}
+
+/*
+ * Object: Aspect Ratio
+ * --------------------
+ */
+.o-aspect-ratio {
+  position: relative;
+  overflow: hidden;
+}
+.o-aspect-ratio::before {
+  content: "";
+  display: block;
+  padding-top: 100%;
+}
+.o-aspect-ratio[data-padding="80"]::before {
+  padding-top: 80%;
+}
+.o-aspect-ratio[data-padding="66"]::before {
+  padding-top: 66%;
+}
+
+.o-aspect-ratio__media {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+/*
+ * Object: Overlap
+ * ---------------
+ */
+.o-overlap-bottom,
+.o-overlap-top {
+  position: absolute;
+  width: 70%;
+}
+
+.o-overlap-bottom {
+  left: 0;
+  top: 0;
+}
+
+.o-overlap-top {
+  right: 0;
+  bottom: 0;
+}
+
+.o-overlap-bottom__deco {
+  background: #37493e;
+  width: 15%;
+  top: 0;
+  right: 0;
+  height: 100%;
+  position: absolute;
+  -webkit-transform: translateX(95%);
+  transform: translateX(95%);
+}
+.o-overlap-bottom__deco::before {
+  content: "";
+  position: absolute;
+  width: 33.33333%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: #ffffff;
+  opacity: 0.2;
+  -webkit-transform: translateX(100%);
+  transform: translateX(100%);
+}
+.o-overlap-bottom__deco::after {
+  content: "";
+  position: absolute;
+  width: 33.33333%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: #ffffff;
+  opacity: 0.5;
+  -webkit-transform: translateX(200%);
+  transform: translateX(200%);
+}
+
+.o-overlap-top__deco {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20%;
+  border-top: 3px solid #37493e;
+  border-right: 3px solid #37493e;
+  opacity: 0.8;
+  -webkit-transform: translate(-130%, 115%);
+  transform: translate(-130%, 115%);
+}
